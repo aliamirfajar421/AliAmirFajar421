@@ -47,7 +47,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliamirfajar421&theme=github_dark&utcOffset=5" />
 </p>
 ---
+## 📈 GitHub Profile Summary
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliamirfajar421&theme=github_dark" />
+</p>
+---
 ## 🔥 GitHub Streak
 
 <p align="center">
