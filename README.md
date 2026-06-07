@@ -46,7 +46,7 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/muhammad-ali-aamir-fareed-b58084349/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
