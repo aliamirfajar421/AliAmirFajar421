@@ -4,29 +4,22 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🌱 Currently learning **Web Development & TypeScript**
-- 💻 Passionate about **Web Development, SEO, and Modern Technologies**
-- 🤝 Open to collaborating on **Frontend Development & SEO Projects**
-- 📚 Always exploring new tools and technologies
-- 👨‍💻 GitHub Profile:
-  https://github.com/aliamirfajar421
-- 📫 Contact:
-  aliamirfajar421@gmail.com
-
----
-
-## 🌐 Portfolio
-
-🚧 Coming Soon...
+- 💻 Passionate about **building web apps & SEO projects**
+- ⚡ I love turning ideas into real digital products
+- 🤝 Open to collaboration on **Frontend & SEO Projects**
+- 📚 Always learning new technologies
+- 📫 Reach me at: **aliamirfajar421@gmail.com**
+- 🌍 GitHub: https://github.com/aliamirfajar421
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
 </p>
 
 ---
@@ -39,20 +32,11 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliamirfajar421&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliamirfajar421&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliamirfajar421&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliamirfajar421&theme=github_dark&utcOffset=5" />
 </p>
----
-## 📈 GitHub Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliamirfajar421&theme=github_dark" />
-</p>
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -71,7 +55,7 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ali-aamir-fareed-b58084349/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -83,15 +67,10 @@
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Fun Quote
 
-> Building skills, creating projects, and growing every day 🚀
-> 🚀 About Me
+> “Code is not just code, it’s creativity turned into reality.”
 
-🛠️ Tech Stack
+---
 
-📈 GitHub Profile Summary
-
-👀 Profile Views
-
-🤝 Connect With Me
+⭐ Thanks for visiting my profile!
