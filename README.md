@@ -50,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/aliamirfajar421">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
