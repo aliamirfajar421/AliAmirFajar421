@@ -32,7 +32,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight)
