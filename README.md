@@ -86,3 +86,12 @@
 ### ⭐ Thanks for visiting my profile!
 
 > Building skills, creating projects, and growing every day 🚀
+> 🚀 About Me
+
+🛠️ Tech Stack
+
+📈 GitHub Profile Summary
+
+👀 Profile Views
+
+🤝 Connect With Me
