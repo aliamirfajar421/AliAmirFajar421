@@ -33,8 +33,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliamirfajar&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight" />
+</p>
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliamirfajar421&theme=tokyonight" />
+</p>
+---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aliamirfajar421&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 ---
 
