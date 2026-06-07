@@ -10,7 +10,7 @@
 - 💻 I love building **Web Applications and SEO Projects**
 - 🤝 I’m looking to collaborate on **Frontend & SEO Projects**
 - 👨‍💻 All of my projects are available at:  
-  https://github.com/YOUR_USERNAME
+  https://https://github.com/aliamirfajar421
 - 📫 How to reach me:  
   your-email@example.com
 - ⚡ Fun fact: **I love Coding and Learning New Technologies 😎**
