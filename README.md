@@ -86,15 +86,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![SEO](https://img.shields.io/badge/SEO-OPTIMIZED-00C853?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
-![Speed](https://img.shields.io/badge/SPEED-FAST-ff1744?style=for-the-badge&logo=lightning&logoColor=white&labelColor=000000)
-![Rank](https://img.shields.io/badge/GOOGLE-RANKING-ff9800?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliamirfajar421&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight&hide_border=true)
----
 ![SEO](https://img.shields.io/badge/SEO-Expert-0e75b6?style=for-the-badge&logo=google&logoColor=white)
 ![Performance](https://img.shields.io/badge/Performance-Optimized-ff6b6b?style=for-the-badge&logo=lighthouse&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5&logoColor=white)
