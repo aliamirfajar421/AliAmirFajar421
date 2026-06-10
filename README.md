@@ -3,13 +3,15 @@
 <h1 align="center">🚀 Muhammad Ali 🚀</h1>
 
 <h3 align="center">
-Full Stack SEO Specialist | Web Developer | Lifelong Learner
+  Full Stack SEO Specialist | Web Developer | Lifelong Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+SEO+Specialist;Web+Developer;TypeScript+Learner;Future+React+%26+Next.js+Developer;Building+Skills+Every+Day+🚀" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+SEO+Specialist;Web+Developer;TypeScript+Learner;Future+React+%26+Next.js+Developer;Building+Skills+Every+Day+🚀"
+    alt="Typing SVG"
+  />
 </p>
-
 ---
 
 ## 🌟 About Me
