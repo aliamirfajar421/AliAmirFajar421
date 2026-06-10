@@ -71,7 +71,7 @@
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ali-aamir-fareed-b58084349/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -81,18 +81,6 @@
   </a>
 </p>
 
----
-![HTML](https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
-![SEO](https://img.shields.io/badge/SEO-Expert-0e75b6?style=for-the-badge&logo=google&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance-Optimized-ff6b6b?style=for-the-badge&logo=lighthouse&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5&logoColor=white)
-![Mobile Friendly](https://img.shields.io/badge/Mobile-Friendly-success?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Fast Loading](https://img.shields.io/badge/Speed-Fast-important?style=for-the-badge&logo=speedtest&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Code-Clean-green?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Rank Boost](https://img.shields.io/badge/Google-Rank%20Boost-orange?style=for-the-badge&logo=google&logoColor=white)
 ---
 
 ### ⭐ Thanks for visiting my profile!
