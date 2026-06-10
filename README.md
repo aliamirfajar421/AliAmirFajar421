@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Ali
 
-### Full Stack SEO Specialist | Web Developer | Lifelong Learner 🚀
+<h3 align="center">Full Stack SEO Specialist | Web Developer | Lifelong Learner 🚀</h3>
 
 ---
 
@@ -10,10 +10,12 @@
 - 💻 Passionate about **Web Development, SEO, and Modern Technologies**
 - 🤝 Open to collaborating on **Frontend Development & SEO Projects**
 - 📚 Always exploring new tools and technologies
-- 👨‍💻 GitHub Profile:
-  https://github.com/aliamirfajar421
-- 📫 Contact:
-  aliamirfajar421@gmail.com
+
+### 👨‍💻 GitHub Profile
+🔗 https://github.com/aliamirfajar421
+
+### 📫 Contact
+📧 aliamirfajar421@gmail.com
 
 ---
 
@@ -25,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode" />
 </p>
 
@@ -46,17 +48,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliamirfajar421&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliamirfajar421&theme=github_dark&utcOffset=5" />
 </p>
+
 ---
+
 ## 📈 GitHub Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliamirfajar421&theme=github_dark" />
 </p>
+
 ---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliamirfajar421&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=aliamirfajar421&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +77,7 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-ali-aamir-fareed-b58084349/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -83,15 +89,25 @@
 
 ---
 
+## 🎯 Current Goals
+
+- 🚀 Become a Professional Web Developer
+- 📈 Grow as a Full Stack SEO Expert
+- 🌍 Work with International Clients
+- 💼 Build Modern SaaS Products
+
+---
+
+## 📚 Currently Learning
+
+- TypeScript
+- React.js
+- Next.js
+- Node.js
+- Modern SEO
+
+---
+
 ### ⭐ Thanks for visiting my profile!
 
 > Building skills, creating projects, and growing every day 🚀
-> 🚀 About Me
-
-🛠️ Tech Stack
-
-📈 GitHub Profile Summary
-
-👀 Profile Views
-
-🤝 Connect With Me
