@@ -88,7 +88,14 @@
 </p>
 
 ---
+# Test
 
+![Stats](https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=aliamirfajar421&theme=tokyonight)
+---
 ## 🎯 Current Goals
 
 - 🚀 Become a Professional Web Developer
