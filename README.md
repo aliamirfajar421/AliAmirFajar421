@@ -8,7 +8,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+SEO+Specialist;Web+Developer;TypeScript+Learner;Future+React+%26+Next.js+Developer;Building+Skills+Every+Day+🚀"
+    src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=25&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+SEO+Specialist;Web+Developer;TypeScript+Learner;Future+React+and+Next.js+Developer;Building+Skills+Every+Day+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
@@ -73,7 +73,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true" />
 </p>
 ---
 
