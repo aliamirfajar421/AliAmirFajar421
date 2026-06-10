@@ -70,14 +70,10 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&row=1&column=6" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 ---
 
