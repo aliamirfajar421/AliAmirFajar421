@@ -69,12 +69,14 @@ Full Stack SEO Specialist | Web Developer | Lifelong Learner
 
 ## 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&row=1&column=6" />
-
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&row=1&column=6" 
+    alt="GitHub Trophies" 
+  />
 </p>
-
 ---
 
 ## 📈 GitHub Analytics
