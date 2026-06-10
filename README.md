@@ -12,7 +12,7 @@
     alt="Typing SVG"
   />
 </p>
----
+
 
 ## 🌟 About Me
 
@@ -73,7 +73,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421" />
 </p>
 ---
 
