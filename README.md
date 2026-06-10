@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/aliamirfajar421" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliamirfajar421&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliamirfajar421&theme=github_dark" />
 </p>
 
@@ -59,10 +59,14 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aliamirfajar421&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -88,14 +92,7 @@
 </p>
 
 ---
-# Test
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=aliamirfajar421&theme=tokyonight)
----
 ## 🎯 Current Goals
 
 - 🚀 Become a Professional Web Developer
