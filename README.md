@@ -102,7 +102,7 @@ Full Stack SEO Specialist | Web Developer | TypeScript Learner
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aliamirfajar421/aliamirfajar421/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aliamirfajar421/aliamirfajar421/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
