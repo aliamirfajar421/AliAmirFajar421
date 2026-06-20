@@ -1,74 +1,62 @@
+# Hi 👋, I'm Muhammad Ali
+
 <h1 align="center">🚀 Muhammad Ali 🚀</h1>
 
 <h3 align="center">
-Full Stack SEO Specialist | Web Developer | Lifelong Learner
+Full Stack SEO Specialist | Web Developer | TypeScript Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+SEO+Specialist;Web+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+SEO+Specialist;Web+Developer;TypeScript+Learner;Future+React+and+Next.js+Developer;Building+Skills+Every+Day+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-- 🔭 Currently learning **Web Development**
-- 🌱 Learning **React, Next.js & TypeScript**
-- 💼 Full Stack SEO Specialist
-- 🎯 Goal: Build modern web applications
-- 🚀 Future Full Stack Developer
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-</p>
+- 🌱 Currently learning **Web Development & TypeScript**
+- 💻 Passionate about **Web Development, SEO & Modern Technologies**
+- 🚀 Future React & Next.js Developer
+- 🤝 Open to collaborating on Web Development Projects
+- 🌍 Looking to work with International Clients
+- ⚡ Building Skills Every Day
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-
----
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
----
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode,supabase" />
+
+</p>
+
+---
+
+## 🏆 SEO & Developer Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SEO-Specialist-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Web-Developer-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/TypeScript-Learner-3178C6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=for-the-badge" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -76,40 +64,117 @@ Full Stack SEO Specialist | Web Developer | Lifelong Learner
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=aliamirfajar421&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliamirfajar421&theme=github_dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliamirfajar421&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliamirfajar421&theme=github_dark&utcOffset=5" />
+
 </p>
 
 ---
 
-## 🚀 SEO Expertise
+## 📊 Contribution Graph
 
-![Technical SEO](https://img.shields.io/badge/Technical_SEO-Expert-success?style=for-the-badge)
+<p align="center">
 
-![On Page SEO](https://img.shields.io/badge/On_Page_SEO-Expert-blue?style=for-the-badge)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliamirfajar421&theme=tokyo-night&hide_border=true" />
 
-![Off Page SEO](https://img.shields.io/badge/Off_Page_SEO-Expert-orange?style=for-the-badge)
+</p>
 
-![Local SEO](https://img.shields.io/badge/Local_SEO-Expert-red?style=for-the-badge)
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/aliamirfajar421/aliamirfajar421/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Become a Professional Full Stack Developer
+- 🌍 Work with International Clients
+- 📈 Grow as an SEO Expert
+- 💼 Build Modern SaaS Applications
+- ⚡ Master React.js & Next.js
+
+---
+
+## 📚 Currently Learning
+
+- TypeScript
+- React.js
+- Next.js
+- Node.js
+- Supabase
+- Git & GitHub
+- Modern SEO
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-ali-aamir-fareed-b58084349/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/aliamirfajar421">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: **aliamirfajar421@gmail.com**
+
+🐙 GitHub:
+https://github.com/aliamirfajar421
+
+💼 LinkedIn:
+https://www.linkedin.com/in/muhammad-ali-aamir-fareed-b58084349/
 
 ---
 
 ## 👀 Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aliamirfajar421&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+<h3 align="center">
 
-> "Code + SEO = Unlimited Growth 🚀"
-> 
+⭐ Thanks For Visiting My Profile ⭐
+
+</h3>
+
+<p align="center">
+
+🚀 Code + Build + Improve = Limitless Growth 🚀
+
+</p>
