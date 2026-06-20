@@ -7,7 +7,7 @@ Full Stack SEO Specialist | Web Developer | TypeScript Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+SEO+Specialist;Web+Developer;TypeScript+Learner;Future+React+and+Next.js+Developer;Building+Skills+Every+Day+🚀" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+SEO+Specialist;Web+Developer;TypeScript+Learner;Future+React+and+Next.js+Developer;Building+Skills+Every+Day+%F0%9F%9A%80" />
 </p>
 
 ---
