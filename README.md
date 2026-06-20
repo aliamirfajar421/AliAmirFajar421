@@ -3,59 +3,55 @@
 # 🚀 Muhammad Ali
 ### Full Stack Web Developer & SEO Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Professional+SEO+Specialist;Building+Modern+SaaS+Applications;Always+Learning+&+Growing+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer%20|%20SEO%20Expert;TypeScript%20|%20React%20|%20Node.js;Mastering%20Next.js%20&%20Modern%20Tech;Crafting%20Performant%20Web%20Applications" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-"Code is my craft, SEO is my strategy." 
-I am a passionate **Full Stack Developer** and **SEO Specialist** dedicated to building high-performance, scalable, and user-centric web applications. My focus is on writing clean, maintainable code while ensuring maximum search engine visibility for the projects I build.
+"Code with passion, optimize with precision."
+I am a results-oriented **Full Stack Developer** and **SEO Specialist** focused on building efficient, user-centric, and highly optimized web applications. My expertise lies in full-stack JavaScript development and strategic technical SEO, ensuring your projects are both functional and discoverable.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,supabase,git,github,vscode,tailwind,vercel" />
-</p>
-
----
-
-## 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,supabase,mongodb,postgresql,git,github,vscode,tailwind,figma,notion" alt="My Tech Stack" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-<!-- Fixed Trophy URL -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Muhammad Ali's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aliamirfajar421&theme=tokyonight&margin-w=10&margin-h=10&column=-1&rank=-C,B,A,S,SS,SSS" alt="Muhammad Ali's Trophies" />
 </p>
 
 ---
 
-## 📊 Productivity & Analytics
+## 📊 Performance Analytics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliamirfajar421&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliamirfajar421&theme=github_dark" />
+  <a href="https://github.com/aliamirfajar421/aliamirfajar421"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aliamirfajar421&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ali's GitHub Stats" /></a>
+  <a href="https://github.com/aliamirfajar421/aliamirfajar421"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirfajar421&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" /></a>
+  <a href="https://github.com/aliamirfajar421/aliamirfajar421"><img align="center" src="https://github-readme-summary-cards.vercel.app/api/cards/productive-time?username=aliamirfajar421&theme=tokyonight&hide_border=true&utcOffset=5" alt="Productive Time" /></a>
 </p>
 
 ---
 
-## 🎯 Current Goals & Focus
-- 🚀 **Mastery:** Deep diving into Advanced React.js and Next.js.
-- 🏗️ **Projects:** Developing complex SaaS products using Supabase.
-- 📈 **SEO:** Mastering technical SEO for modern SPA (Single Page Applications).
-- 🌍 **Networking:** Collaborating with global developers and international clients.
+## 🎯 Current Goals & Learning
+- 🧠 **Deep Dive:** Mastering advanced React patterns and Next.js optimization.
+- 🏗️ **Building:** Scalable SaaS platforms and open-source tools.
+- 📈 **SEO:** Scaling technical SEO for complex modern web apps.
+- 🌎 **Network:** Expanding global reach & collaborations.
 
 ---
 
-## 🎓 Currently Learning
-- **Advanced TypeScript:** Building robust applications.
-- **System Architecture:** Understanding full-stack flow.
-- **SEO Automation:** Scaling performance.
+## 🎓 Skills & Certificates
+<p align="center">
+  <img src="https://img.shields.io/badge/FullStack--Web--Development-Verified-success?style=for-the-badge&logo=javascript&labelColor=333" alt="Full Stack Dev Badge" />
+  <img src="https://img.shields.io/badge/SEO--Specialist-Expert-blue?style=for-the-badge&logo=google&labelColor=333" alt="SEO Specialist Badge" />
+  <img src="https://img.shields.io/badge/TypeScript--Pro-Verified-3178C6?style=for-the-badge&logo=typescript&labelColor=333" alt="TypeScript Badge" />
+</p>
 
 ---
 
@@ -72,5 +68,5 @@ I am a passionate **Full Stack Developer** and **SEO Specialist** dedicated to b
   <img src="https://komarev.com/ghpvc/?username=aliamirfajar421&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">⭐ Keep Coding, Keep Growing ⭐</h3>
 </div>
