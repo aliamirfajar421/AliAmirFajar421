@@ -1,7 +1,6 @@
 # Hi 👋, I'm Muhammad Ali
 
 <h1 align="center">🚀 Muhammad Ali 🚀</h1>
-[![HackerHub Verified](http://localhost:3000/api/badge/48d131ce-078a-4f9e-8170-62dfa92a6257)](http://localhost:3000/verify/48d131ce-078a-4f9e-8170-62dfa92a6257)
 
 <h3 align="center">
 Full Stack SEO Specialist | Web Developer | TypeScript Learner
